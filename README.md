@@ -36,7 +36,7 @@ This is not \*italicized\* type.
 
    >[!NOTE]
    >
-   >This is note text.
+   >![screen](![Cave Story](https://github.com/user-attachments/assets/f3aa3ffe-6b0f-4db0-969a-4cf7d4ce2140)
 
 1. Do another step.
 
